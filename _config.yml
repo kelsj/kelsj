@@ -10,3 +10,13 @@ color:
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/kelsey_ej
+  - title: github
+    url: http://github.com/kelsj
+  - title: google scholar
+    url: https://scholar.google.com/citations?user=iAFY-K8AAAAJ&hl=en
+  
