@@ -1,4 +1,4 @@
-Personal website of Kelsey E. Johnson
+Lab website of Kelsey E. Johnson
 
 From template:
 Read Only by HTML5 UP
